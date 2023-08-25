@@ -1,0 +1,18 @@
+body{
+    background-color: darkgray;
+}
+
+#flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+.centered{
+    text-align: center;
+}
+
+.border{
+    border: 2px dashed white
+}
